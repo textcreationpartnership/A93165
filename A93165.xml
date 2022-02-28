@@ -1,0 +1,565 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The widow's mite cast into the treasury for the repairing the breaches of the temple being an essay to explicate the sufferings of our blessed Saviour, and vindicate them from the imputation of a guilty sinner in the sight of God the father : with some reconciling paradoxes to be soberly enquired into / by J. St. N. in the 91st year of  his age, a student in St. Paul's epistles.</title>
+            <author>J. St. N. (John St. Nicholas), 1604-1698.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 80 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93165</idno>
+            <idno type="STC">Wing S345A</idno>
+            <idno type="STC">ESTC R42964</idno>
+            <idno type="EEBO-CITATION">38875999</idno>
+            <idno type="OCLC">ocm 38875999</idno>
+            <idno type="VID">152348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93165)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152348)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2294:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The widow's mite cast into the treasury for the repairing the breaches of the temple being an essay to explicate the sufferings of our blessed Saviour, and vindicate them from the imputation of a guilty sinner in the sight of God the father : with some reconciling paradoxes to be soberly enquired into / by J. St. N. in the 91st year of  his age, a student in St. Paul's epistles.</title>
+                  <author>J. St. N. (John St. Nicholas), 1604-1698.</author>
+               </titleStmt>
+               <extent>[2], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Error in paging: p. 26-27 numbered 18-19.</note>
+                  <note>Imperfect: cropped and stained.</note>
+                  <note>Reproduction of original in: Dr. Williams' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Person and offices --  Early works to 1800.</term>
+               <term>Redemption --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152348:1" rendition="simple:additions"/>
+            <p>THE Widows Mite Caſt into the Treaſury for the Repairing The Breaches of the TEMPLE.</p>
+            <p>BEING AN ESSAY To Explicate the Sufferings of <hi>Our Bleſſed Saviour,</hi> AND Vindicate them from the Imputation of a Guilty Sinner in the Sight of GOD the Father. WITH Some Reconciling PARADOXES to be ſoberly Enquired into.</p>
+            <p>By <hi>J. St. N.</hi> in the 91ſt year of his Age, a Student in St. <hi>Paul</hi>'s Epiſtles.</p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Matt. xxi. 16.</hi>
+                  </bibl> Read ye never? by the mouths of Babes and Sucklings thou haſt made perfect Praiſes.</p>
+               <p>
+                  <bibl>
+                     <hi>Matt. xxiv. 15.</hi>
+                  </bibl> Let him that readeth conſider.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> at the <hi>Oxford-Arms</hi> in <hi>Warwick-lane,</hi> 1695.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:152348:2"/>
+            <pb facs="tcp:152348:2"/>
+            <head>THE Widows Mite.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Luke XXIV. 26.</hi>
+                  </bibl>
+                  <p>Ought not Chriſt to have ſuffered theſe things, and to enter into his Glory.</p>
+               </q>
+            </epigraph>
+            <p>THeſe are the words of our bleſſed Saviour, which he ſpake the firſt day of his Reſurrection, in conference with two of his Diſciples as they were walking from <hi>Jeruſalem</hi> to <hi>Emaus;</hi> and doubtfully diſcourſing whether their Lord Jeſus were the Chriſt; becauſe of the ſad and ſtrange things which had befal<g ref="char:EOLhyphen"/>len him at <hi>Jeruſalem</hi> in his Sufferings, and yet as ſtrange rumours of him, as if he were riſen again. Our Saviour opportunely meets them, and reſolves them from the Scriptures, that Chriſt ought to ſuffer theſe things, and moreover, to enter into Glory.</p>
+            <p>The truth of the matter of Fact, That our Jeſus did ſuffer theſe things and enter into Glory, and the truth of the neceſſity of it; that by divine Ordination and Prediction, by the Prophets which have been ſince the World began, is now the common Faith of all that profeſſes the Chriſtian Religion. But the full and comfortable underſtanding of this glorious Myſtery, requires a diligent ſearch into the Holy Scriptures, comparing Spiritual things with Spiritual things, with an humble and teachable Spirit. And becauſe at the beſt, we know but in part, it is very meet we do as the <hi>Iſraelites</hi> were commanded to do in gathering Manna, to bring all into one com<g ref="char:EOLhyphen"/>mon heap for an equal Diſtribution; ſo truthing it in love, as the Apoſtle phraſeth it, <hi>Eph.</hi> 4.15. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: This is the ground of publiſhing theſe following Obſervations.</p>
+            <p>Theſe words do give a fair occaſion to make theſe Enquiries.</p>
+            <list>
+               <item>1. What were theſe Sufferings which Chriſt did ſuffer?</item>
+               <item>2. Of what nature or kind theſe Sufferings were, whether puniſh<g ref="char:EOLhyphen"/>ments to Chriſt, or only perfecting Trials?</item>
+               <item>3. Why it was neceſſary he ſhould enter into Glory, as well as ſuffer theſe things?</item>
+               <item>4. For what great Ends it was neceſſary that Chriſt ſhould both ſuffer theſe things, and alſo enter into Glory.</item>
+            </list>
+            <div type="question">
+               <pb n="2" facs="tcp:152348:3"/>
+               <head>For the Firſt.</head>
+               <p>What were theſe Sufferings which Chriſt did ſuffer?</p>
+               <p>Many and great were the Sufferings of our bleſſed Saviour, from his birth to his burial: But theſe in this Text refer to thoſe he ſuf<g ref="char:EOLhyphen"/>fered in the laſt turn of his life; which he calls an hour? <hi>could ye not watch with me one hour?</hi> therefore come I to this hour, now is your hour, and the power of darkneſs. And the Propheſies in <hi>Pſ.</hi> 2. <hi>Pſ.</hi> 22. <hi>Pſ.</hi> 69. and in <hi>Iſa.</hi> 53. ſeem all to point to this hour, which hour ſeems to begin about the time of one Diſciples betraying him, and went on in anothers denying him, and all of them forſaking and flying from him; a Band of Soldiers apprehended him as a notorious Malefactor, then in mocking and wounding him with a Crown of Thorns, ſmiting him, with ſpitting upon him, and re<g ref="char:EOLhyphen"/>proaching him; then falſly accuſing him as a Blaſphemer, a falſe Prophet an Enemy to <hi>Caeſar;</hi> and then condemning him by pub<g ref="char:EOLhyphen"/>lick vote of the <hi>Jews,</hi> and final ſentence of the <hi>Roman</hi> Gover<g ref="char:EOLhyphen"/>nour, to a moſt painful and ſhameful death; and by the Judicial Law moſt accurſed, as belonging to the greateſt Malefactors: Thus he was rejected both by <hi>Jews</hi> and <hi>Gentiles,</hi> who came to his own Kindred and Nation, to gather them as a Hen gathers her Chickens under her Wings.</p>
+               <p>In this hour, Satan and the whole power of Darkneſs, had liber<g ref="char:EOLhyphen"/>ty by divine Permiſſion, to do their utmoſt againſt Chriſt, to bring him to ſin againſt God, as <hi>Adam</hi> did, ſo to ſpoil the deſign for Man's Salvation.</p>
+               <p>Theſe endeavours of Satan may be conceived under two notions, Injuries and Tentations: Injuries to the outward-man, Tentations on the Inner-man: or in one word, Tempting Injuries, or Injurious Tentations. In <hi>Pſ.</hi> 2. they are expreſſed by the rage of the Heathen, In <hi>Pſ.</hi> 22. are deſcribed the particular Injuries Chriſt was to ſuffer, and compared to the aſſaults of Bulls, the roaring of ramping Lions, the aſſemblies of barking and biting Dogs. In <hi>Iſa.</hi> 53.6. the Suffe<g ref="char:EOLhyphen"/>rings of Chriſt are declared by one word, <hi>The Iniquities of us all,</hi> which God laid on him, or cauſed them to meet upon him; and he bore them with Patience, <hi>v.</hi> 11. the iniquities which God laid upon him and he did bear, were the perſecution and injurious deal<g ref="char:EOLhyphen"/>ing of us all, that is, of <hi>Jews</hi> and <hi>Gentiles,</hi> Rulers and Commons, we were all guilty of wounding, ſmiting, deſpiſing, oppreſſing, ſlay<g ref="char:EOLhyphen"/>ings Chriſt as an innocent Lamb by one Conſent, as the Hiſtory doth plainly demonſtrate; and that their iniquities ſignifie their injurious dealings, may appear by this Prophets interpretation of the word, <hi>Iſa.</hi> 59.34. <hi>Your works are works of iniquity, your thoughts are thoughts
+<pb n="3" facs="tcp:152348:3"/>
+of iniquity,</hi> compared with 1 <hi>Tim.</hi> 1.13. a Perſecutor, Injurious, <hi>&amp;c.</hi>
+               </p>
+               <p>
+                  <hi>Laſtly,</hi> It appears that the Sufferings of Chriſt were not only out<g ref="char:EOLhyphen"/>ward Injuries, but ſecret Tentations, by <hi>Heb.</hi> 2.18. he ſuffered and was tempted, which <hi>Paul</hi> calls the Buffetings of Satan; he tempted him to diſtruſt, impatience, and revenge; we may conceive with ſuch ſuggeſtions and ſolicitations as theſe, Where is now your God? Where is now your Miraculous Power? you are now forgotten and forſaken; you are in my power, and ſhall not eſcape puniſh<g ref="char:EOLhyphen"/>ment for your evil doings, <hi>&amp;c.</hi>
+               </p>
+            </div>
+            <div type="question">
+               <head>The Second Enquiry.</head>
+               <p>Whether the Sufferings of Chriſt were puniſhments or tryals in Gods intention?</p>
+               <p>That they were puniſhments on him as a guilty ſinner in the in<g ref="char:EOLhyphen"/>tentions of Men, is evident, for the <hi>Jews</hi> tell <hi>Pilate,</hi> if he were not a Malefactor, we would not have delivered him to thee. And it was the ſenſe of <hi>Cajaphas</hi> his Counſel, That one man muſt die for the people; meaning, That juſtice muſt be done upon ſuch a noto<g ref="char:EOLhyphen"/>rious Enemy to <hi>Caeſar,</hi> or elſe the <hi>Romans</hi> would come upon them as Rebels. But ſome Learned Men are bold to aſſert, if they be not miſ-underſtood, That God intended Chriſts Sufferings as Puniſh<g ref="char:EOLhyphen"/>ments upon him, as a guilty ſinner in <hi>Adams</hi> ſtead and room, or in<g ref="char:EOLhyphen"/>ſtead of our perſons, or the perſons of the Elect, to pay our debt as a legal ſurety to the vindictive law of works, that ſo we may be juſtified by his ſuffering of puniſhment imputed to us.</p>
+               <p>This Aſſertion ſeems neceſſary to be demurred upon, for theſe Reaſons.</p>
+               <p>
+                  <hi>R.</hi> 1. It ſeems not agreeable to the true notion of Chriſt's being a Second <hi>Adam;</hi> this makes Chriſt to be in the room of the Firſt <hi>Adam,</hi> to ſtabliſh the Covenant which he had broke, that we might be juſtified by it, tho not by our ſelves, yet by our Surety. But the Scriptures will not admit to be juſtified by the Law of Works in any ſenſe; if it be of works in any ſenſe, then grace is no more grace. Beſides, Chriſt is not a Second <hi>Adam,</hi> becauſe he is in the room of the Firſt, as the head of his Covenant, as one King ſucceeds another in the ſame Government: But he is a Second <hi>Adam</hi> on a new founda<g ref="char:EOLhyphen"/>tion, the head of a new Covenant, that ſhould bring in a new and a living way, not by legal ſatisfaction, but by meritorious interceſſion. Chriſt is repreſented in Scripture to be like and unlike the Firſt <hi>A<g ref="char:EOLhyphen"/>dam;</hi> he is like in the humane Nature, cloathed with humane Infir<g ref="char:EOLhyphen"/>mities, that are not in themſelves ſinful; but he is unlike the Firſt in any thing that is ſinful, and in the excellencies of gracious and
+<pb n="4" facs="tcp:152348:4"/>
+ſpiritual Communications; he is the Lord from Heaven, and a Life<g ref="char:EOLhyphen"/>giving Spirit, which the firſt was not.</p>
+               <p>
+                  <hi>R.</hi> 2. This Aſſertion doth not agree with the method of Divine Grace, expreſſed in <hi>Rom.</hi> 8.3, 4. <hi>Rom.</hi> 5.19. and 2 <hi>John</hi> 22. The method in <hi>Rom.</hi> 8 is, Chriſt condemned ſin in the Fleſh, that is, obey<g ref="char:EOLhyphen"/>ed God fully in Mans nature againſt all tentations by the power of the Spirit, by which he was conceived, to the end that one that is born of the ſame Spirit, and walks by the ſame Spirit, might be able to perform the righteouſneſs, not the rigour of the Law, which he cannot perform by the power of Nature.</p>
+               <p>But this Aſſertion ſays in effect, That Chriſt was condemned by our ſin, that his condemnation might be imputed to us, for our ful<g ref="char:EOLhyphen"/>filling the righteouſneſs and rigour of the Law, tho we walk after the Spirit. In like manner, it doth as it were make <hi>Rom.</hi> 5.19. ſay, as by the diſobedience of one many are made Sinners, ſo by the puniſhment of the diſobedience of one, many ſhall be imputed (not made) Righteous: and 1 <hi>Pet.</hi> 3.18. muſt ſound thus; Chriſt ſuffered for Sin, the Unjuſt for the Unjuſt. And 1 <hi>John</hi> 2.2. We have an Advocate Jeſus Chriſt the ſinner: ſuch ill Interpretations ſeems to follow; and our rejoycing muſt be, that God accounts Chriſt a Sinner in our ſtead, and puniſheth him in our ſtead, tho he was moſt Righteous.</p>
+               <p>
+                  <hi>R.</hi> 3. Chriſt is an Example to us in his Sufferings to follow his ſteps, 1 <hi>Pet.</hi> 2.21. But if he ſuffered as puniſht as a guilty Sinner in our ſtead, his Sufferings are unimitable by us, we can imitate them only as Tryals.</p>
+               <p>
+                  <hi>R.</hi> 4. In ſuffering puniſhments for ſin, Man is meerly paſſive, Chriſt in his Sufferings was very Active, and not meerly Paſſive, <hi>Ergo,</hi> his Sufferings were not Puniſhments.</p>
+               <div type="division">
+                  <head>The Activity of Chriſt in his Sufferings.</head>
+                  <p n="1">1. His Sufferings were Voluntary, <hi>John</hi> 10.17, 18. He yielded him<g ref="char:EOLhyphen"/>ſelf to his Enemies when he might have avoided them; He gave up his Spirit before they could take it away by compulſion. 2. His Suf<g ref="char:EOLhyphen"/>ferings were Acts of Obedience, <hi>Phil.</hi> 2.7, 8. <hi>Heb.</hi> 10.7. I come to do thy Will, thy Law is in my Heart.</p>
+                  <p n="3">3. His Sufferings were Victorious; he conflicted with, and con<g ref="char:EOLhyphen"/>quered in all Tentations; he reſiſted unto Blood ſtriving againſt Sin, for the Joy that was ſet before him; he endured the Croſs, and de<g ref="char:EOLhyphen"/>ſpiſed the ſhame. His Agonies and the Travail of his Soul, were not his Puniſhments, but his Fightings the good Fight of Faith and Patience, and Love, conquering diſtruſt, impatience and revenge, by Prayer, Watchfulneſs, and Praying, for the Tranſgreſſors:
+<pb n="5" facs="tcp:152348:4"/>
+wherein, tho as the natural <hi>Adam,</hi> he was weak and ſubject to fear, yet as the Spiritual <hi>Adam,</hi> he was ready, undaunted, and fearleſs, and by Death overcame him who had power to put him to Death. <hi>Heb.</hi> 2.12.</p>
+                  <p n="4">4. His Sufferings were Sacrificing Sufferings, in Obeying he Con<g ref="char:EOLhyphen"/>quered, in Conquering he offered himſelf a Sacrifice or Acceptable Gift to God; he loved us, and gave Himſelf for us, <hi>Eph.</hi> 5.2. which Sacrifice or Holy Gift, was adumbrated by the Legal Sacri<g ref="char:EOLhyphen"/>fices in reſpect to our Nature, he was a whole Burnt-offering, and an Offering of a Sweet Smelling Savour; in reſpect of our perſons he was a Sin-offering, and a Peace-offering.</p>
+                  <p>He was an Holocauſt, or whole Burnt-offering, preſenting Him<g ref="char:EOLhyphen"/>ſelf in Soul and Body blameleſs, in Flames of Faith and Love to his Father: He was a Sacrifice of a ſweet ſmell, by reaſon of the Bloud and the Fat, both which were reſerved to God, of every Sacri<g ref="char:EOLhyphen"/>fice as moſt Holy, <hi>Numb.</hi> 18.17. <hi>Eph.</hi> 5.2.</p>
+                  <p>He was a Sin-offering, in reſpect of remembrance of perſonal and particular Sin, with profeſſion of Faith and Repentance in the perſon that brought the Sacrifice, <hi>Heb.</hi> 10.17, 18. He was a Peace-offering, becauſe by him our Gifts and Sacrifices of Thankſgiving are acceptable to God, <hi>Heb.</hi> 13.15.</p>
+                  <p n="5">5. His Sufferings were a Meretorious price for Mans Redemption, 1 <hi>Pet.</hi> 11.8, 19.</p>
+                  <p>To put all together, the Sufferings of Chriſt were all acts of vo<g ref="char:EOLhyphen"/>luntary obedience, to the command of the Father, to break the head of the Serpent, in all his injurious Tentations, and preſent the nature of Man as an acceptable Gift to God, and a valuable price of Mans Redemption, from the Guilt, Power, and Condemnation of the Law of Works, into the enjoyment of a full Remiſſion a new Heart, and Adoption to Eternal Life by the Law of Grace. But if the Sufferings of Chriſt, were puniſhments of him as a Guilty Sinner in our ſtead, they were not theſe acts of Obedience, but mere Paſſi<g ref="char:EOLhyphen"/>ons, <hi>Ergo</hi> his Sufferings were not puniſhments.</p>
+                  <p>
+                     <hi>R.</hi> 5. In <hi>Heb.</hi> 5.8, 9. there are three Expreſſions againſt this Aſ<g ref="char:EOLhyphen"/>ſertion, (1.) Chriſt learned Obedience by his Sufferings, (2.) He was perfected by his Sufferings, (3.) Chriſt being Conſecrate by his Sufferings, became after that the Author of Salvation, to them that obey him in his miniſterial call; for if this Aſſertion be true, we are in Chriſt before his Sufferings, and perfect by his Sufferings as by our ſurety for debt; but by this Text we are not accounted ſa<g ref="char:EOLhyphen"/>ved by Chriſt, until we obey his call.</p>
+                  <p>
+                     <pb n="6" facs="tcp:152348:5"/>
+                     <hi>R.</hi> 6. <hi>David</hi> was a Type of Chriſt in his Sufferings and Glory, as appears in <hi>Pſ.</hi> 2. and <hi>Pſ.</hi> 22. He ſuffered many injuries and Tenta<g ref="char:EOLhyphen"/>tions, but none of them Puniſhments for Sin: And God is repre<g ref="char:EOLhyphen"/>ſented in <hi>Pſ.</hi> 2. as Judge betwixt Chriſt and the Rulers, deriding their falſe Judgment, but not Condemning Chriſt with them; I have ſet my King, <hi>&amp;c.</hi>
+                  </p>
+                  <p>
+                     <hi>R.</hi> 7. This Aſſertion deſcribes our Salvation by a penal ſatisfacti<g ref="char:EOLhyphen"/>on, by a Surety to make good the Debt, by a Covenant of Works; But the Scripture deſcribes our Salvation, by the obedient ſatisfacti<g ref="char:EOLhyphen"/>on of the Captain of our Salvation, as a ſurety to confirm the pro<g ref="char:EOLhyphen"/>miſes, to forgive the debt on ſeeking Mercy.</p>
+               </div>
+            </div>
+            <div type="question">
+               <head>The Third Inquiry.</head>
+               <p>Why it was neceſſary Chriſt ſhould enter into Glory as well as ſuffer theſe things?</p>
+               <p>Our Bleſſed Saviour explains this, he ſays, <hi>John</hi> 17. That <hi>the hour is come,</hi> wherein he <hi>finiſhed the work</hi> God gave him, to glorifie him on Earth; and ſays on the Croſs, <hi>it is finiſhed,</hi> and prays that <hi>God would now glorifie him with himſelf;</hi> by which it appears, that Chriſt was to do the Will of the Father in Heaven, as well as on Earth, for the compleating our Redemption. His work on Earth was compleat as to the meritorious work of Teaching and Suffering: But for the effectual Application of it, the Will of the Father was to be done in Heaven; his Will on Earth was done (as it were) in an hour, but his Will in Heaven is a work of Ages, ſo long as the Church is in Gathering, ſo long is the Church in Redeeming, until all be compleat in the Reſurrection of the Body, and therefore our Saviour enters upon this part of Redemption at his Reſurrection, and aſcends to the right hand of the Father, to receive the promiſed Miniſterial Spirit, to give forth for the proclaiming this glad Tidings and perſwading Men to receive it; and then to be a Prieſt for ever at the Fathers right Hand, after the order of <hi>Melchiſadech,</hi> whoſe Throne is Juſtice, and Judgment, and Mercy, and Truth, go be<g ref="char:EOLhyphen"/>fore his Face. He is made a Throne of Grace, a Mercy-ſeat for ſin<g ref="char:EOLhyphen"/>ners to addreſs unto, to obtain Remiſſion of Sin by and through Faith in his Blood, and all good things promiſed. And he is entred into Glory, not only to Judge his people in perfecting the Work of their Redemption, according to the Law of his Grace, but alſo to ſuccour them in all Dangers and Temptations, for which end he is beyond the reach of all his Adverſaries, and made the Monarch of the World, tho not a worldly Monarch, the King of Kings, and Lord of Lords.</p>
+            </div>
+            <div type="question">
+               <pb n="7" facs="tcp:152348:5"/>
+               <head>The Fourth Enquiry.</head>
+               <p>For what great Ends or Effects it was neceſſary that Chriſt ſhould ſuffer theſe things and enter into Glory.</p>
+               <p>This is an unſearchable depth; it is ſafe for us to keep to what is revealed, and to bring our notions to the Text, and not the Text to our conceptions.</p>
+               <p>There are Four Principal Ends or Effects mentioned in the Scrip<g ref="char:EOLhyphen"/>tures. As,
+<list>
+                     <item>1. To Manifeſt the Grace of God in its Freedom, Riches, and Extent.</item>
+                     <item>2. To Manifeſt the Marvellous and Manifold Wiſdom of God.</item>
+                     <item>3. To Manifeſt and Vindicate the Severity of God's Judgments againſt the Neglectors and Contemners of his Mercy.</item>
+                     <item>4. To Manifeſt the ſympathetical Power of Chriſt, in ſuccour<g ref="char:EOLhyphen"/>ing his Church in her Suffering, for his Name ſake.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Of the First End:</hi> And Firſt, Of the Freedom of the Grace of God.</p>
+               <p>This Freedom of the Grace of God in the work of Man's Re<g ref="char:EOLhyphen"/>demption, ſeems to exclude any Conſideration of a penal ſatisfacti<g ref="char:EOLhyphen"/>on, to the wrath and vindictive Juſtice of God by the Mediatour, as Antecedent to the Remiſſion of <hi>Adams</hi> Sin; but implys, that God was pleaſed to remit <hi>Adams</hi> Sin upon the Account of the Media<g ref="char:EOLhyphen"/>tors obedience to the Juſtice of his free promiſe, without a penal Satisfaction; ſo that the face of Man's Redemption from the begin<g ref="char:EOLhyphen"/>ning was Mercy and Truth, and not vindictive Juſtice.</p>
+               <p>This doth abundantly appear in Holy Scripture. As</p>
+               <p>
+                  <hi>Firſt,</hi> In the Old Teſtament, in <hi>Exod.</hi> 34. when God proclaims His Name, it is Mercy in the firſt place, forgiving Iniquity, Tranſ<g ref="char:EOLhyphen"/>greſſion and Sin, and Judgment in the Second place. In the de<g ref="char:EOLhyphen"/>ſcription of the Throne of God, The Prophet <hi>David</hi> deſcribes God ſitting on his Throne, to have Mercy and Truth go before his Face, <hi>Pſ.</hi> 89.14. And <hi>David</hi> deſcribes his own Throne, as King of <hi>Iſrael,</hi> who was to be like unto God in his Government, in this manner, <hi>Pſ.</hi> 101.1. <hi>I will ſing of Mercy and Judgment, unto thee O Lord will I ſing.</hi> And the Evangelical Prophet, <hi>Iſa.</hi> 55.8. after he had promiſed a<g ref="char:EOLhyphen"/>bundance of Pardon without any penal ſatisfaction, he Anſwers the Objections which unbelieving Men are ready to make againſt this Free Mercy of God, as if it were againſt his juſt proceedings, he Anſwers all Mens thoughts about it, with this ſaying from the Lord; <hi>My ways are not as your ways, nor my thoughts as your thoughts.</hi>
+               </p>
+               <p>
+                  <pb n="8" facs="tcp:152348:6"/>In the New Teſtament our bleſſed Saviour Himſelf declares this glorious Truth in a Parable, <hi>Matth.</hi> 18.23, <hi>&amp;c.</hi> he ſaith, the Kingdom of Heaven (which is the Kingdom of Grace) is not like the Man that took him that owed him 500 Pence by the Throat, and ſaid, pay me that thou oweſt me, before he would ſhew him any kindneſs: But the Kingdom of Heaven is like to a King that took Account of his Servant, who owed him a Thouſand Talents, and when he had nothing to pay, upon his Intreaty forgave him all. And our Apoſtle the Teacher of the Gentiles, declares the Doctrine of Chriſts Redemption in this manner, <hi>Rom.</hi> 3.24, 25. he ſaith, the Redemption that is by Jeſus Chriſt is freely by Grace; and this freedom he explains by two remarkable Expreſſions in the Context; the firſt expreſſion is that he ſaith, the Redemption of Chriſt declares the Righteouſneſs of God, for the Remiſſion of Sins; which Righteouſneſs of God cannot be underſtood of his vindictive Juſtice, but of his Mercy and Truth in Performance of the Grace of the New Covenant, according to St. <hi>John</hi>'s Expreſſion, <hi>if we confeſs our ſin, God is righteous and juſt to forgive ſin,</hi> 1 John 1.9. The Second Expreſſion is in <hi>verſ.</hi> 28. where he ſaith, <hi>we are juſtified by Faith, without the law of Works:</hi> Where without the Law of Works, muſt neceſſarily exclude all Penal Satisfaction for breaking the Law.</p>
+               <p>The Notion of Chriſts being <hi>Adams</hi> ſurety for debt, as bound in the ſame Bond with him, is Defective for theſe Reaſons, As
+<list>
+                     <item>1. It ſuppoſeth Chriſts ſatisfaction to penal vindictive Juſtice, to be the firſt Act of Chriſts Mediation, which is againſt the abſolute freedom of the Law of Grace.</item>
+                     <item>2. It ſuppoſeth Chriſt to be guilty of <hi>Adams</hi> Sin, which is againſt the Reward of the Law of Grace.</item>
+                     <item>3. It infers that Chriſt ſhould reſtore <hi>Adam</hi> to the ſtate wherein he was before he ſinned, which is againſt the Nature of the Law of Grace.</item>
+                  </list>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> Chriſt ſuffering theſe things and entring into Glory, doth alſo manifeſt the Riches and full meaſure of Grace, not only for the pardon of tranſgreſſors againſt the Law of Works, but alſo for obtaining a new Heart, and Adoption to Eternal Life. And</p>
+               <p>
+                  <hi>Thirdly,</hi> The Extent alſo of Divine Grace is hereby manifeſted, becauſe Chriſt did not only ſuffer and enter into Glory as the Son of <hi>David,</hi> of the ſeed of <hi>Abraham,</hi> but alſo as the Son of <hi>Adam,</hi> in the common nature of Mankind, <hi>Luk.</hi> 3.</p>
+            </div>
+            <div type="section">
+               <pb n="9" facs="tcp:152348:6"/>
+               <head>Of the Second End, viz.</head>
+               <p>Chriſt ſuffered theſe things, and entred into Glory, to manifeſt the manifold Wiſdom of God in the Work of Man's Redemption, <hi>Epheſ.</hi> 3.10. The Wiſdom of God in this Glorious Work is neither com<g ref="char:EOLhyphen"/>prehenſible nor expreſſible by us; it may ſuffice to obſerve what the Scripture ſaith touching the marvellous Conſtitution of the Perſon of the Redeemer, and the Order of the Work in us and upon us.</p>
+               <p>The Perſon of Chriſt is ſometimes ſet forth by a deſcription of the Divine Nature, as he is called the Son of God, ſometimes by a deſcri<g ref="char:EOLhyphen"/>ption of the Human Nature, as he is called the Son of Man, ſome<g ref="char:EOLhyphen"/>times by Expreſſions that ſignifie the admirable Union of both.</p>
+               <p>Expreſſions referring to the Divine Nature are ſuch as theſe; <hi>John</hi> 1.1, 2, 3, 4. <hi>Col.</hi> 1.15, 16. <hi>Heb.</hi> 1.2, 3. the <hi>Word,</hi> the <hi>Light,</hi> the <hi>Image of the inviſible God,</hi> the <hi>brightneſs of his Glory,</hi> and <hi>the engraven Form of his Perſon, for whom are all things, and by whom are all things.</hi>
+               </p>
+               <p>Expreſſions referring to his Human Nature are ſuch as theſe; <hi>The Son of Man, conceived by the Holy Ghoſt, made of a Woman, born of a Vir<g ref="char:EOLhyphen"/>gin;</hi> he grew in Wiſdom and Stature, and favour with GOD and Men; he received the Spirit without meaſure, was ſubject to his Pa<g ref="char:EOLhyphen"/>rents, was made under a Law, not only under the Moral and Cere<g ref="char:EOLhyphen"/>monial, but alſo the Judicial, as exerciſed by the <hi>Jews,</hi> and not on<g ref="char:EOLhyphen"/>ly the Judicials of the <hi>Jews,</hi> but alſo the Judicials of the <hi>Romans,</hi> who then ruled over the <hi>Jews;</hi> he ſubmitted himſelf to their Judg<g ref="char:EOLhyphen"/>ment, though falſe and injurious, and executed by wicked Hands, by whom he ſuffered many grievous things, bearing their Injuries victo<g ref="char:EOLhyphen"/>riouſly, in the power of Faith and Patience; ſo that by the wiſe and holy Providence of the Father, being made perfect and conſecrate by Sufferings, he became a Surety of the Promiſes of Remiſſion and Adoption to Eternal Life, making them his Teſtament or Laſt Will, which he confirmed by his Death and Bloodſhedding. And having done the Will of the Father upon Earth, and being perfected by his Sufferings, he became the Firſt-begotten of the Dead, the Firſt-fruits of them that ſleep, and is made an eternal Prieſt at the Right Hand of the Father, after the Order of <hi>Melchiſedeck,</hi> King of Righteouſneſs, and King of Peace, whoſe Throne is a Throne of Grace for poor Sin<g ref="char:EOLhyphen"/>ners to ſeek for the Mercy of the Father by him, and ſo is made the Head of all things to the Church, the Saviour of his Body, the Heir of all things. Thus Chriſt was another <hi>Adam,</hi> a ſuffering and a con<g ref="char:EOLhyphen"/>quering Man, and a glorified Man, which the firſt <hi>Adam</hi> was not.</p>
+               <p>Expreſſions ſignifying the Union of both Natures in Chriſt's Perſon, are ſuch as theſe; <hi>The Only-begotten of the Father, the Word made Fleſh,
+<pb n="10" facs="tcp:152348:7"/>
+God manifeſt in the Fleſh, juſtified in the Spirit, ſeen of Angels, preached in the World, received up to Glory, in whom the Fulneſs of the Godhead dwells bodily, or in whoſe Body or Human Nature the Fulneſs of the Godhead dwells as in his Temple,</hi> Emanuel, <hi>God with us, and God with him.</hi>
+               </p>
+               <p>The manifold Wiſdom of God appears not only in the Conſtitution of the Perſon of a Mediator for us, but alſo in his Work in us and upon us: <hi>We ſpeak,</hi> ſaith the Apoſtle, <hi>the wiſdom of God</hi> (meaning his operation in us) <hi>in a myſtery.</hi> Some of which Work may appear in this Obſervation:</p>
+               <p>The Apoſtle declares the Work of Redemption by one word of Re<g ref="char:EOLhyphen"/>conciliation or Atonement, which he ſets forth in reference to a gene<g ref="char:EOLhyphen"/>ral notion common to all Mankind, and a particular notion referring to the Perſons of Men.</p>
+               <p>The general notion of Reconciliation or Redemption is God's re<g ref="char:EOLhyphen"/>conciling the World of Mankind (conſiſting of <hi>Jew</hi> and <hi>Gentile</hi>) to himſelf, into one ſtate of Churchhood by Jeſus Chriſt, doing the Will of the Father in our common Nature: which Reconciliation or Re<g ref="char:EOLhyphen"/>demption appears in three things.</p>
+               <p n="1">1. The taking away the Partition-wall, which conſiſted in dividing Ordinances.</p>
+               <p n="2">2. The not imputing their Sins to them, when they both were ripe for Deſtruction, and giving them a farther day of his Patience.</p>
+               <p n="3">3. The ſending forth a Miniſtry of Reconciliation both to <hi>Jew</hi> and <hi>Gentile.</hi> This is aſſerted in 2 <hi>Cor.</hi> 5.18, 19. which may be thus para<g ref="char:EOLhyphen"/>phraſed; All things in the Church ſtate are new, and are of a recon<g ref="char:EOLhyphen"/>ciled God, who hath in the firſt place accepted an Atonement for the <hi>Jews</hi> by Jeſus Chriſt, and hath given us the Apoſtles of Chriſt Au<g ref="char:EOLhyphen"/>thority to miniſter this Reconciliation, not only to the <hi>Jews,</hi> but to tell all the World, That God hath put both <hi>Jews</hi> and <hi>Gentiles</hi> into one ſtate of Churchhood, in relation to himſelf, by the Atonement which Chriſt hath made, and is pleaſed, for his ſake, to give them a farther day of his Patience, and a Word of Command to us, the Apoſtles, to ſettle and exerciſe one reconciling Miniſtry, without difference of Na<g ref="char:EOLhyphen"/>tions in all the World.</p>
+               <p>The Perſonal Notion of Reconciliation is, the reconciling our Souls and Spirits to God, from our natural Enmity to a ſupernatural Love, in yielding our ſelves to be perſwaded to be the Righteouſneſs or Workmanſhip of God, by the power of Chriſt's Miniſterial Spirit, gi<g ref="char:EOLhyphen"/>ven forth ſince his Reſurrection, and to be perſwaded hereunto from the conſideration of the great Love of Chriſt in ſuffering of himſelf to be made in reputation of a Sinner, by wicked Sinners, that he might as a perfectly-tryed righteous man, obtain the Spirit of Regeneration,
+<pb n="11" facs="tcp:152348:7"/>
+(<hi>Gal.</hi> 3.12, 13.) to be given to us <hi>Gentiles,</hi> to make us really and ac<g ref="char:EOLhyphen"/>ceptably righteous, and not only ſo, but alſo conſidering that he hath procured a Day of Grace, wherein our accepting of Chriſt's perſwa<g ref="char:EOLhyphen"/>ſive Operations will be accepted of the Father; and alſo conſidering that the preſent time is <hi>that our Day.</hi> This concerning our Perſonal Re<g ref="char:EOLhyphen"/>conciliation is aſſerted alſo in 2 <hi>Cor.</hi> 5.20, 21. &amp; <hi>Cap.</hi> 6.1, 2.</p>
+               <p>The general notion of Reconciliation and Redemption is aſſerted in <hi>John</hi> 1.29. Chriſt is <hi>the Lamb of God, which takes away the ſin of the world.</hi> Here the World is the World of the <hi>Gentiles,</hi> as well as of the <hi>Jews;</hi> the Sin of the World is the Judgment which lay upon the Na<g ref="char:EOLhyphen"/>tions for their Apoſtacy at the Tower of <hi>Babel,</hi> from the Faith of <hi>Noah;</hi> which Judgment was by Confuſion of Tongues to ſeparate them from the Houſe of <hi>Sem,</hi> who kept the Faith, and ſo they were with<g ref="char:EOLhyphen"/>out God, without Chriſt, dead in Sins, under the Government of the Prince of Darkneſs. This Sin was taken away by Chriſt, and a Re<g ref="char:EOLhyphen"/>conciliation made by his Sacrifice in Man's Nature, whereby he meri<g ref="char:EOLhyphen"/>ted a Miniſtry of Reconciliation, with the Gifts of Tongues to bring them again to God. Reconciliation implys a preceding Judgment, a Judgment ſuppoſes a Sin of Apoſtacy, Apoſtacy ſuppoſes a precedent good Condition: <hi>Adam</hi> was in a good Condition, then followed his Apoſtacy, then a Judgment, then a Reconciliation out of meer Mercy, by a Promiſe of a Redeemer, <hi>Gen.</hi> 3.15. which put Man into a good condition again, to come to God by an atoning Sacrifice. Then came an Apoſtacy from the right way of ſacrificing in <hi>Cain</hi> and his Poſterity; <hi>If thou doeſt well,</hi> ſaith the Lord to him, (that is, in ſacrificing aright) <hi>ſhalt thou not be accepted?</hi> This Apoſtacy of the <hi>Cainites</hi> ſpread over the face of the whole World, then came the Judgment of the Flood, then followed a Reconciliation. <hi>Gen.</hi> 8.21. it's ſaid, That God ſmelt a ſavour of Reſt in <hi>Noah</hi>'s Sacrifice, and Mankind was put into a good condition again; then came the Apoſtacy at the Tower of <hi>Babel,</hi> for which the Judgment of Diſchurching came upon them, till the Lamb of God offered himſelf in the common Nature of Man, and made Peace for them by the Blood of his Croſs, and brought them into a ſalvable ſtate, equal with the <hi>Jews.</hi>
+               </p>
+               <p>The general notion of Redemption is alſo ſet forth by theſe general Expreſſions, <hi>viz. Chriſt dy'd for us all, he was deliver'd for our Sins, he ſuffer'd for Sin:</hi> where the word <hi>us all</hi> ſignifies us Men of all Nations, and the word <hi>Sin</hi> or <hi>Sins</hi> ſignifies the natural Apoſtacy and frequent Actings of it. That <hi>us all</hi> is meant of <hi>Men of all Nations,</hi> appears in 1 <hi>Tim.</hi> 2. where <hi>all,</hi> in <hi>v.</hi> 6. refers to Men. In <hi>v.</hi> 1, 4. it ſignifies <hi>Men of all Nations.</hi>
+               </p>
+               <p>
+                  <pb n="12" facs="tcp:152348:8"/>It's alſo obſervable, in reference to the general notion, That the Work of Redemption and Reconciliation refers to certain Times and Seaſons, <hi>Rom.</hi> 5.6. Chriſt, according to the Seaſon, dy'd for the Un<g ref="char:EOLhyphen"/>godly; Chriſt was ſent in the fulneſs of Times, <hi>Gal.</hi> 4.4. He gave himſelf a Ranſome, witneſſed in the proper ſeaſons, 1 <hi>Tim.</hi> 2.6. <hi>In the diſpenſation of the fulneſs of Times</hi> God gathers or reconciles all <hi>things</hi> to himſelf by Chriſt, <hi>Eph.</hi> 1.10. Here <hi>Things</hi> ſignifies <hi>Perſons,</hi> as the <hi>Subſtantive</hi> is often put for the <hi>Adjective,</hi> the <hi>Abſtract</hi> for the <hi>Concrete, More Hebraico.</hi> This ſeems to be the true Univerſal Redemption, which the Apoſtle ſeems to comprehend in one ſentence, with admira<g ref="char:EOLhyphen"/>tion of the Wiſdom and unſearchable Ways of God; the ſentence is this, <hi>viz.</hi> God hath ſet up all (Nations) in Unbelief, that he might have mercy upon all (Nations) in their times and turns, <hi>Rom.</hi> 11.31, 32.</p>
+               <p>Now concerning the Perſonal Reconciliation and Redemption, which amounts to a Perſonal Election.</p>
+               <p>As the Reconciliation of our Nature in the Perſon of Chriſt is ex<g ref="char:EOLhyphen"/>preſſed by the Blood and Death of Chriſt for us, ſo our Perſonal Recon<g ref="char:EOLhyphen"/>ciliation is expreſſed by the Righteouſneſs of God manifeſted in all and upon all that believe, <hi>Rom.</hi> 3.21, 22. By the Righteouſneſs of God is meant the Faithfulneſs of God in performing his merciful Pro<g ref="char:EOLhyphen"/>miſes, eſpecially touching his ſending Chriſt and the Spirit to the <hi>Gen<g ref="char:EOLhyphen"/>tiles.</hi> The Apoſtle ſaith, <hi>This is witneſſed as a diſtinct thing in the Law and the Prophets, from the Law of Works.</hi> For inſtance, in the Law this Faithfulneſs of God is called <hi>the Name of God, Exod.</hi> 34.6. In the <hi>Pſalms</hi> it's called <hi>the Mercy and Truth of God, Pſal.</hi> 100. &amp; 117. and <hi>the Righteouſneſs of God, Pſal.</hi> 71.2, 15, 16. <hi>Pſal.</hi> 103.17. and <hi>Mercy</hi> and <hi>Truth</hi> and <hi>Righteouſneſs of God</hi> are put together, <hi>Pſal.</hi> 98.2, 3. <hi>Salvation</hi> and <hi>Mercy</hi> and <hi>Truth, Righteouſneſs</hi> and <hi>Reconciliation,</hi> are join'd together, <hi>Pſal.</hi> 85.10, 11. In the Prophecy of the Prophet <hi>Iſaiah,</hi> this Faithfulneſs of God, in his merciful Promiſes in ſending Chriſt and his Spirit (which is the ground of the New Covenant) is called <hi>the Righteouſneſs of God,</hi> and <hi>his Salvation, Iſa.</hi> 56.1. In <hi>Jeremiah</hi> it is called <hi>the New Covenant, Jer.</hi> 31.31. <hi>This Righteouſneſs of God,</hi> the Apoſtle ſaith, <hi>is now manifeſted by the Faith of Chriſt.</hi>
+               </p>
+               <p>This Expreſſion of the <hi>Faith of Chriſt</hi> is often uſed to ſignifie the preaching the Doctrine of Faith in Chriſt, whereof Chriſt is the Au<g ref="char:EOLhyphen"/>thor, by his Spirit, which is alſo called the Law of Faith, Miniſtry of the Spirit, and Miniſtry of Reconciliation, or of reconciling our Per<g ref="char:EOLhyphen"/>ſons to God, that we may partake of the Benefit of God's being recon<g ref="char:EOLhyphen"/>ciled to us by the Death of Chriſt.</p>
+               <p>
+                  <pb n="13" facs="tcp:152348:8"/>This manifeſtation of the Righteouſneſs of God by the Faith of Chriſt, is in us, and upon us, that believe. <hi>It is in us:</hi> This, in one word, is the Work of Faith; in two words, it's the Similitude of the Life and Death of Chriſt, imprinted in our Hearts; in three words it's Faith, Hope, and Love. And this Righteouſneſs is by the Mini<g ref="char:EOLhyphen"/>ſtry of Reconciliation <hi>upon us,</hi> and apply'd <hi>unto us,</hi> by forgiveneſs of Perſonal Sins, with inward Peace, and Joy, and Adoption to Eternal Life.</p>
+               <p>This notion of reconciling the Nature and Perſons of Men, runs in the Veins of the Apoſtle's Diſcourſe of Juſtification, in <hi>Rom.</hi> 3.24. he ſaith, We <hi>are juſtified freely by Grace:</hi> This Grace is the Law of Grace, and that Law, he ſaith, is <hi>the Redemption that is by Chriſt.</hi> This is the general notion of Chriſt's taking our Nature. And then he adds the notion of Perſonal Redemption, when he ſaith, that God hath ſet him forth (miniſterially) to be a Mercy-ſeat, through Faith in his Blood, for the remiſſion of our Perſonal Sins, <hi>Rom.</hi> 4.25. <hi>He dyed for our Sins,</hi> (here is the Reconciliation of our Nature) <hi>and he aroſe for our Juſtification;</hi> there is the Reconciliation of our Perſons. And in <hi>Rom.</hi> 5. from <hi>v.</hi> 6, to 10. There is an Atonement <hi>made</hi> by Chriſt's Death when we were Enemies in the higheſt degree of Apo<g ref="char:EOLhyphen"/>ſtacy, ripe for Deſtruction; this is the Atonement in our Nature. And then he mentions the Atonement received, which is our Perſonal Re<g ref="char:EOLhyphen"/>conciliation. That Pattern of wholſome words in <hi>Tit.</hi> 3.3, 4, 5, 6 7, 8. is very remarkable for the method of Divine Wiſdom in the Na-, tional and Perſonal Reconciliation, put together as it is in 2 <hi>Cor.</hi> 5. from <hi>v.</hi> 16. to the end, which place gives light to this in <hi>Titus,</hi> and this to that, being thus paraphraſed: We all were ſometimes fooliſh, diſobedient, <hi>&amp;c.</hi> but after the Kindneſs and Love of God our Saviour to Mankind appeared, in ſending his Son in the nature of Man, by him to reconcile the World to himſelf, in doing his Will in all his Commands, againſt all Temptations to the contrary; he was pleaſed to ſave our Perſons, not by Works of Righteouſneſs which we had done, or Surety for us, or as imputed to us in a legal way, but of his meer and abſolute Free Mercy, making us new Creatures, which he did in this method: He firſt brought us into a ſtate of Regenera<g ref="char:EOLhyphen"/>tion, and then perfected the Work of Regeneration by the Miniſtry of his own Spirit, which he poured on us the Apoſtles, by the Inter<g ref="char:EOLhyphen"/>ceſſion of Jeſus Chriſt, aſcended into Heaven, to the end that we be<g ref="char:EOLhyphen"/>ing by the operation of his Grace made righteous in the Gift of a new Heart, and perfect Remiſſion of Sin, as by the Spirit and Blood of Chriſt, we might, by the Spirit of Adoption, be made Heirs of Eternal Life, whereof we hope, according to his Promiſe, <hi>John</hi> 3.16. <hi>God ſo
+<pb n="14" facs="tcp:152348:9"/>
+loved the World, that he gave his only begotten Son, that whoſoever believes in him ſhall not periſh, but have everlaſting Life.</hi> In this Pattern of whol<g ref="char:EOLhyphen"/>ſome words our Apoſtle anſwers a Caſe of Conſcience, which every Soul is concerned in, <hi>viz.</hi> How a Perſon that hath ſome time been fooliſh, diſobedient, ſerving divers Luſts and Pleaſures, <hi>&amp;c.</hi> may have hope of Eternal Life.</p>
+               <p>He anſwers in effect thus much, That there are three things done by Chriſt, and three things to be done by the Sinner.</p>
+               <p n="1">1. Chriſt hath made an Atonement for Mankind, that any that hath the Nature of Man may come to God in the way of his Mercy, and in the day of Mercy.</p>
+               <p n="2">2. Chriſt hath provided Means of Grace to make them new Crea<g ref="char:EOLhyphen"/>tures, which are, <hi>Baptiſm</hi> and a <hi>Spiritual Miniſtry.</hi>
+               </p>
+               <p n="3">3. When the Work of <hi>Renovation</hi> is truly wrought, ſo as the Love of God is poured into the Soul, he hath provided a Seal to confirm his Adoption to the <hi>Inheritance of Eternal Life,</hi> by the Witneſs of his own Spirit, filling his Heart with Joy and Peace, in hope and expecta<g ref="char:EOLhyphen"/>tion of it.</p>
+               <p>The three things to be done on Man's part, are,
+<list>
+                     <item>1. He is to believe the Atonement, and receive it with all readineſs, notwithſtanding his many and great Offences, though his Sins be of Crimſon, of a deep dye; for Chriſt came into the World to ſave the Chief of <hi>Sinners.</hi>
+                     </item>
+                     <item>2. He muſt yield himſelf to the Means of Grace for his Reno<g ref="char:EOLhyphen"/>vation.</item>
+                     <item>3. In the conſcionable uſe of the Means of Grace he muſt pray for the <hi>Manifeſtations</hi> and <hi>Confirmarion of Chriſt's Love,</hi> and wait for the Motions of the Spirit of Adoption, rejoycing in Hope.</item>
+                  </list>
+               </p>
+               <p>Thus a <hi>Sinner</hi> may be truly ſaid to convert himſelf to God, and no Glory due to Man in the Work; and <hi>Chriſt</hi> truly ſaid to work all things in all Perſons.</p>
+               <p>And it's obſervable, that the Apoſtle, in directing a <hi>Sinner</hi> how to know his Salvation, doth not begin at the eternal purpoſe of God in Election, but at the way of working out his Salvation; for although it's God's way to <hi>work all things according to his Eternal Purpoſe,</hi> and known to God are all his Works from the <hi>beginning</hi> of his Purpoſes, yet our way of knowing his Purpoſes is by his Work, in the <hi>diſpenſa<g ref="char:EOLhyphen"/>tion of the fulneſs of Times, Eph.</hi> 1.10. unleſs it be by Special Reve<g ref="char:EOLhyphen"/>lation.</p>
+               <p>Another Obſervation to demonſtrate the manifold Wiſdom of God in the Work of <hi>Man's Redemption,</hi> conſidered generally and particular<g ref="char:EOLhyphen"/>ly, is from that word to himſelf, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, applied diſtinctly to the Father
+<pb n="15" facs="tcp:152348:9"/>
+in 2 <hi>Cor.</hi> 5.18, 19. &amp; <hi>Eph.</hi> 5.2, 3. to <hi>Chriſt.</hi> God the Father hath reconciled the World of <hi>Mankind</hi> (were they <hi>Jews</hi> or <hi>Gentiles</hi>) by Je<g ref="char:EOLhyphen"/>ſus Chriſt, <hi>to himſelf,</hi> which ſeems to ſignifie, to his own uſe and ſer<g ref="char:EOLhyphen"/>vice, as that wherein he delights to diſplay his Glory and the Riches of his Grace.</p>
+               <p>It's by Chriſt's Atonement that <hi>Mankind lives, and moves, and have their being</hi> continued, that God cauſes his Sun to ſhine on the Juſt and Unjuſt, that Seed-time and Harveſt are yet continued, that rare Inven<g ref="char:EOLhyphen"/>tions are found out, that a Bleſſing attends Mens honeſt Endeavours, that Princes decree Juſtice, and Human Societies are preſerved: It is from <hi>Chriſt's Atonement</hi> that Sentence againſt an Evil Work is not ſpee<g ref="char:EOLhyphen"/>dily executed, and Judgments executed have an end many times, and Sin no longer imputed, and Mercy revived in <hi>God's Government</hi> of this World. This <hi>Love of the World of Mankind</hi> God gave them on the account of Jeſus Chriſt, who was the Lamb ſlain in God's holy purpoſe from the beginning of the World of Mankind, to take away that Confu<g ref="char:EOLhyphen"/>ſion which Sin had brought into the World of Mankind.</p>
+               <p>But beſides this common Love which God hath to <hi>Mankind,</hi> from <hi>Chriſt's Atonement,</hi> he hath an higher degree of Love for <hi>Mankind,</hi> on the account of <hi>Chriſt's Atonement,</hi> which reſpects Eternal Life, which <hi>Adam</hi> loſt, which is noted by the Word <hi>So,</hi> in <hi>John</hi> 3.16. <hi>He ſo lo<g ref="char:EOLhyphen"/>ved,</hi> to ſuch a degree; he loved all <hi>Mankind</hi> in the poſitive, but his Church in the ſuperlative degree and fence.</p>
+               <p>This ſuperlative Love, in bringing many Sons unto Glory, Chriſt hath a peculiar Commiſſion from the Father to take care of, and to promote, <hi>Mat.</hi> 28.19, 20. which he accordingly doth, in waſhing with Water them that believe his Word, <hi>Eph.</hi> 5.26. or waſhing them from their Sin with his Blood, <hi>Rev.</hi> 1.5. for the Water and Blood go together, 1 <hi>John</hi> 5.6. and are both ſignified in Baptiſm, as containing the compleat Work of Regeneration by the Blood and Spirit of Chriſt, and being ſo made clean, without ſpot or wrinkle, he preſents them <hi>to himſelf,</hi> as true Members of his myſtical Body, and then preſents them to the Father to be juſtified in Judgment, and being judged righteous, to be adopted to Sonſhip, or glorified, <hi>Epheſ.</hi> 1.5. 1 <hi>Tim.</hi> 4. GOD is the Saviour of all Men, eſpecially of them that be<g ref="char:EOLhyphen"/>lieve.</p>
+               <p>The Wiſdom of God in Chriſt's Miniſterial Work is ſet forth in <hi>Gal.</hi> 3. from <hi>v.</hi> 19, to the end. The Apoſtle had poſitively aſſerted in <hi>Gal.</hi> 2.16. That we are Juſtified by the Law of Faith, and not by the Law of Works, <hi>&amp;c.</hi> and here he enquires the Reaſon in the Divine Wiſdom, why the Law was given after the Promiſe; and anſwers to this effect: After the Promiſe of Salvation, by a reconciling and re<g ref="char:EOLhyphen"/>deeming
+<pb n="16" facs="tcp:152348:10"/>
+Mediator, was made to <hi>Abraham,</hi> God gave a Law at <hi>Sinai,</hi> by way of Covenant, ſolemnly tranſacted as between two Friends, by a Friendly Mediator, which ſeemed contrary to a reconciling Me<g ref="char:EOLhyphen"/>diator.</p>
+               <p>And verily, Man ſhould have been juſtified by this Covenant, if he had kept it, for God is <hi>One,</hi> and conſtant to one way of Salvation, bue God foreſeeing the Weakneſs of Man's Nature, without a farther Special Grace, and that he would break this Covenant, declareth in the Scripture, that this Law was given after the Promiſe, not to abo<g ref="char:EOLhyphen"/>liſh, but to eſtabliſh it, not to ſeek Righteouſneſs by doing it in our own Strength, but to be miniſtred as our Covenant, only as a Means to make us know our Sin and Miſery, and cauſe us to hunger and thirſt; not after the Mediator of Friendſhip, but after the Mediator of Reconciliation and Redemption. Thus Faith is an Act of Obedience to the Law of Grace; and as it is written, <hi>Chriſt is the Author of Sal<g ref="char:EOLhyphen"/>vation to them that obey him.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Of the Third End.</head>
+               <p>The third End or Effect (according to our manner of conception) why Chriſt ought to ſuffer theſe things and enter into Glory, was, to vindicate the Severity of Divine Vindictive Juſtice, againſt the Neglect or Contempt of God's Promiſe of Mercy to miſerable <hi>Mankind,</hi> by a Mediator in the firſt place freely offered.</p>
+               <p>This is hard to be explain'd, but probably thus: <hi>Mankind</hi> for the firſt Sin was preſently judged to the loſs of Eternal Life on Earth, and after a ſorrowful Life, to periſh in Death as the Beaſts do; as may be gathered from <hi>Pſal.</hi> 49.12, and laſt Verſe, <hi>Man being in henour, abideth not, he is like the beaſts that periſh;</hi> (he became a rational Beaſt) com<g ref="char:EOLhyphen"/>pared with <hi>John</hi> 3.</p>
+               <p>Immediately after this Judgment it pleaſed God, out of his Love to Mankind, and not from any other legal ſatisfaction, to make a volun<g ref="char:EOLhyphen"/>tary Promiſe of a new way to Eternal Life by a Mediator, which Pro<g ref="char:EOLhyphen"/>miſe ſhould have Mercy, in the firſt place, with ſufficient ſtrength to reſiſt Temptation attending it, but ſhould be attended with greater Puniſhment upon the neglect and contempt of it, which was an Hell in the Conſcience in this Life, and a Second Death after the Reſurre<g ref="char:EOLhyphen"/>ction of the Body, in fellowſhip with the Devil and his Angels: but ſuch as were obedient according to the meaſure of their Light, ſhould receive Eternal Life, as a Reward according to the meaſure of Mercy; <hi>Hoſ.</hi> 10.12. <hi>Sow to your ſelves in righteouſneſs, reap in mercy.</hi> Hereupon thoſe of Mankind who embraced not the way of Mercy, remained un<g ref="char:EOLhyphen"/>der the Law of Works, with an aggravation of Puniſhment of a Second
+<pb n="17" facs="tcp:152348:10"/>
+Death after the Reſurrection of the Body, and thoſe that received the Grace of God in vain, were under the ſame condemnation; but thoſe that received this Grace were under the Law of Grace. Thus <hi>Abel</hi> was under the Law of Grace, but <hi>Cain,</hi> and all the <hi>Cainites</hi> (a de<g ref="char:EOLhyphen"/>generate Seed) were under the Law of Works, and judged thereby in the Flood, and after the Flood the way of Mercy by the Mediator was renewed to all Mankind: <hi>Gen.</hi> 4.7. <hi>If thou doeſt well, ſhalt thou not be accepted? but if thou doeſt not well, Sin lyeth at thy door; (i. e.)</hi> if thou ſacrificeſt well, as thy Brother <hi>Abel</hi> did, in coming to God in the way of his Mercy, by a Mediator, thou ſhalt be accepted; but if thou comeſt in the way of thy own Righteouſneſs, (as thou didſt) thy Sin remains unpardoned, and thy Perſon unaccepted; 2 <hi>Theſſ.</hi> 1.7, 8. the Lord Jeſus ſhall come in flaming Fire, to take vengeance on them that know not God, and that obey not the Goſpel of our Lord Jeſus Chriſt. <hi>Heb.</hi> 2.3. <hi>How ſhall we eſcape if we neglect ſo great ſalvation?</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Of the Fourth End.</head>
+               <p>The fourth End of Chriſt's ſuffering theſe things, and entring into Glory, was, to ſuccour and relieve the Redeemed in all their Sufferings which they ought to ſuffer, and are not redeemed from.</p>
+               <p>As it was the will of the Father, that Chriſt ſhould ſuffer in the Body or Human Nature, denying himſelf, and taking up his Croſs in obedience to him, in order to the perfecting the meritorious Work of Redempti<g ref="char:EOLhyphen"/>on for his Church; ſo alſo it was his Will, that Chriſt ſhould exerciſe his Church in Self-denial, in taking up the Croſs and following of him, as his Diſcipline over them, to perfect his miniſterial Work in them, as the Captain of their Salvation, and the Biſhop of their Souls. <hi>Col.</hi> 1.24. <hi>I rejoyce in my ſufferings for you, and fill up that which is be<g ref="char:EOLhyphen"/>hind of the afflictions of Chriſt in my fleſh, for his bodies ſake, which is the Church.</hi> And 2 <hi>Tim.</hi> 2.10. <hi>I endure all things for the elect's ſake.</hi>
+               </p>
+               <p>Note, that when the Apoſtle ſpeaks of ſuffering for the Elect, and for the Body of Chriſt, the Church, it is for their edification; and when he calls his Sufferings the Sufferings of Chriſt, he means thoſe Sufferings whereof Chriſt is the Author: for theſe Expreſſions of <hi>Paul, the Croſs of Chriſt, the Sufferings of Chriſt, the Faith of Chriſt,</hi> and <hi>the Righteouſneſs of God,</hi> when they are ſpoken and mentioned in reference to Man, do ſignifie, that Chriſt is the Author of the Croſs, and of Suf<g ref="char:EOLhyphen"/>ferings, and of Faith, and that God is the Author of Righteouſneſs; and the genitive caſe in ſuch expreſſions notes it to be <hi>genitivus efficien<g ref="char:EOLhyphen"/>tis,</hi> and is of the ſame ſignification as if the prepoſition <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> were pre<g ref="char:EOLhyphen"/>fixed; as will appear by comparing 2 <hi>Cor.</hi> 5.18, 21. and <hi>Rom.</hi> 11.
+<pb n="18" facs="tcp:152348:11"/>
+ult. Our Bleſſed Saviour, after his Sufferings, enters into Glory, that he may be able to ſuccour thoſe that ſuffer for Righteouſneſs ſake,
+<list>
+                     <item>1. By ſympathizing with them.</item>
+                     <item>2. By giving them an Example, what to ſuffer, and how to ſuffer.</item>
+                     <item>3. By ſupporting their Spirits in the Power of Faith and Patience.</item>
+                     <item>4. By ſeaſonable Deliverances.</item>
+                     <item>5. By rebuking their Enemies.</item>
+                     <item>6. By receiving them into the fellowſhip of his own Glory.</item>
+                  </list>
+               </p>
+            </div>
+            <div type="summary">
+               <head>Here follows a brief Sum or Scheme of the whole.</head>
+               <p>The Redemption of our Saviour is deſcribed by his ſuffering theſe things and entring into Glory.</p>
+               <p>Chriſt does not redeem firſt meritoriouſly, and then by Grace, but freely by Grace, and by Grace both
+<list>
+                     <item>meritoriouſly</item>
+                     <item>and miniſterially.</item>
+                  </list>
+               </p>
+               <p>The Work of Redemption and Reconciliation perform'd by Chriſt,
+<list>
+                     <item>1. Is general, with reſpect to all Man<g ref="char:EOLhyphen"/>kind.
+<list>
+                           <item>1. In continuing their Being.</item>
+                           <item>2. In preſerving them.</item>
+                           <item>3. In exerciſing Patience towards them.</item>
+                           <item>4. In bleſſing their Labours. And</item>
+                           <item>5. In making them capable of Salva<g ref="char:EOLhyphen"/>tion in the Means of Grace; or in making Salvation poſſible to them, or in putting them into a ſalvable ſtate.</item>
+                        </list>
+                     </item>
+                     <item>2. Is national As to the <hi>Jews,</hi> as they were redeemed from <hi>Egypt</hi> and <hi>Babylon.</hi>
+                     </item>
+                     <item>3. Is perſonal, <hi>viz.</hi> Of the Elect to a certainty of Sal<g ref="char:EOLhyphen"/>vation in the Means of Grace.</item>
+                  </list>
+               </p>
+               <p>
+                  <pb n="19" facs="tcp:152348:11"/>Now Perſo<g ref="char:EOLhyphen"/>nal Redempti<g ref="char:EOLhyphen"/>on reſpects
+<list>
+                     <item>I. Perſonal Sins Chriſt redeems in reſpect of Sin,
+<list>
+                           <item>1. Not from the Being of Sin.</item>
+                           <item>2. But from the Dominion of Sin.</item>
+                           <item>3. And from the Accuſation of Conſel<g ref="char:EOLhyphen"/>ence upon the guilt of the Domini<g ref="char:EOLhyphen"/>on of Sin.</item>
+                        </list>And</item>
+                     <item>II. Perſonal Sufferings Chriſt redeems
+<list>
+                           <item>1. From Sufferings of Eternal Wrath.</item>
+                           <item>2. To Suf<g ref="char:EOLhyphen"/>ferings. 
+<list>
+                                 <item>As his Diſcipline to perfect the Work of Grace.</item>
+                                 <item>For Sin, by way of Corre<g ref="char:EOLhyphen"/>ction, 1 <hi>Cor.</hi> 11.31.</item>
+                                 <item>For Righteouſneſs ſake, by way of Tryal, <hi>Acts</hi> 14.2. 2 <hi>Tim.</hi> 3.12.</item>
+                              </list>And,</item>
+                           <item>3. In Suf<g ref="char:EOLhyphen"/>ferings, as,
+<list>
+                                 <item>1. The Captain of Salva<g ref="char:EOLhyphen"/>tion, And,</item>
+                                 <item>2. The Biſhop of Souls.</item>
+                              </list>
+                           </item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>The ſum of all in one Propoſition is this, <hi>viz.</hi>
+               </p>
+               <p>God the Father, out of his love to Mankind, fallen into Miſery, did freely, without any antecedent penal Satisfaction to Vindictive Juſtice, by <hi>Adam</hi> himſelf, or his Surety, reſolve to ſhew Mercy to Man by a Mediator, in a way of rewarding Juſtice; to which end he made ma<g ref="char:EOLhyphen"/>ny precious Promiſes, both to the Mediator as the Captain of Salvation, and as the Shepherd and Biſhop of Souls; and to Man, as receiving the Mediator and his Atonement in Faith and Repentance: The ac<g ref="char:EOLhyphen"/>compliſhment of which Promiſes is the compleat Work of Man's Re<g ref="char:EOLhyphen"/>demption.</p>
+            </div>
+         </div>
+         <div type="part">
+            <head>Some Reconciling <hi>PARADOXES</hi> to be enquired into.</head>
+            <div type="section">
+               <head>Touching Chriſt's Sufferings and Satisfaction.</head>
+               <p>
+                  <hi>ADAM</hi> and <hi>Eve</hi> were one Fleſh or Nature, but two Perſons, <hi>Gen.</hi> 2.24.</p>
+               <p>Chriſt ſuffered in the Fleſh or Nature of <hi>Adam,</hi> but not in his Per<g ref="char:EOLhyphen"/>ſon; but Chriſt, as a diſtinct Perſon, ſuffered for <hi>Adam</hi>'s Perſon, and
+<pb n="20" facs="tcp:152348:12"/>
+for the Perſons of all others, Male or Female, who believe the Atone<g ref="char:EOLhyphen"/>ment made in our Nature, either as promiſed in the <hi>beginning of time, Gen.</hi> 3.15. or as performed in the <hi>fulneſs of time, Rom.</hi> 4.24, 25. <hi>John</hi> 3.16.</p>
+               <p>Chriſt did not ſatisfie Vindictive Juſtice as a guilty Sinner, for <hi>Adam</hi>'s Tranſgreſſion, but he ſatisfied Rewarding Juſtice as a victorious Suffe<g ref="char:EOLhyphen"/>rer, <hi>Phil.</hi> 2.5, 6, 7, 8, 9.</p>
+               <p>There is a twofold Satisfaction (as I may ſo ſay inſtead of a better word) in the Law of Grace, the Satisfaction of a Saviour, and the Satisfaction of a Sinner: The Satisfaction of a Saviour is in Chriſt's Death, Reſurrection, and Interceſſion; the Satisfaction of a Sinner is in relation to Chriſt's Miniſterial Work, he muſt deny himſelf, take up his Croſs, and follow Chriſt.</p>
+            </div>
+            <div type="section">
+               <head>Touching Reconciliation and Redemption.</head>
+               <p>There is a Reconciliation or Atonement of all Mankind <hi>made</hi> in the Nature of Man, with a poſſibility of Eternal Salvation, in the Means of Grace: And there is a Reconciliation or Atonement <hi>received</hi> in or by the Perſons of Men, with a certainty of Salvation in the Means of Grace.</p>
+            </div>
+            <div type="section">
+               <head>Touching Juſtification.</head>
+               <p>This Sentence, <hi>We are juſtified in our Perſons by Faith alone,</hi> is to be underſtood according to the full ſence of Faith and Juſtification.</p>
+               <p>The full ſence of Faith is, that it ſignifies the Law of Faith, and the Grace, Act, or Work of Faith, wrought by that Law. The full ſence of Juſtification is, that it ſignifies to make juſt by the Law of Faith, and then to judge to be juſt upon tryal. So the ſence is, we are made juſt by the Miniſtry of the Law of Faith working Faith in us, and not by the Miniſtry of the Law of Works: And we are judged to be juſt upon tryal, upon the exerciſe of Faith, believing in God, who raiſed Chriſt from the dead; or believing in Chriſt, who was delivered for our Sins, and roſe for our Juſtification; or believing in the Death, Reſurrection, and Interceſſion of Chriſt, <hi>Rom.</hi> 8.33. and not by the Works of the Law, according to the Law of Works. Juſtification con<g ref="char:EOLhyphen"/>ſiders Faith, in its relation to the Death, Reſurrection, and Interceſſion of Chriſt; and the Death, Reſurrection, and Interceſſion of Chriſt, in relation to Faith.</p>
+            </div>
+            <div type="section">
+               <pb facs="tcp:152348:12"/>
+               <head>Touching Sanctification.</head>
+               <p>There is a Sanctification before Juſtification, which ſignifies a Dedi<g ref="char:EOLhyphen"/>cation to God, to be made righteous by Chriſt in the Means of Grace, 1 <hi>Cor.</hi> 6.11. <hi>Ye are waſhed, ye are ſanctified, ye are juſtified.</hi>
+               </p>
+               <p>There is a Sanctification after Juſtification, which ſignifies the Spirit of Adoption, upon the compleating of the Work of Juſtification, 1 <hi>Cor.</hi> 1.30. <hi>Chriſt is made unto us wiſdom, righteouſneſs, ſanctification:</hi> Some<g ref="char:EOLhyphen"/>times <hi>Sanctification</hi> comprehends the Work of <hi>Juſtification,</hi> as often in the Epiſtle to the <hi>Hebrews, cap.</hi> 10. <hi>ver.</hi> 10. and there is a <hi>Sanctification</hi> included in <hi>Juſtification, Rom.</hi> 4.25. <hi>Rom.</hi> 5.1.</p>
+            </div>
+            <div type="section">
+               <head>Touching Baptiſm.</head>
+               <p>All Infidel-Sinners, of what Nations, Sex, Age, Condition ſoever, have right to come to Chriſt by Baptiſm for Salvation, as they are of Mankind, upon the account of the general Atonement in the Nature of Man.</p>
+               <p>All that are baptiſed have right to the Teachings and Government of Chriſt's Miniſtry, upon the account of their Baptiſm, that they may be made new Creatures. All that walk orderly under the Means of Grace, have right to have good Hope through Grace, (that is) to have an aſſured perſwaſion of Remiſſion of their Sins, and Adoption to Eternal Life, from the Teſtimony of their Conſciences enlightned by the <hi>Spirit of God,</hi> according to the revealed Word, <hi>That they love the Lord Jeſus in ſincerity, Epheſ.</hi> 6.24. for our bleſſed Saviour ſaith, <hi>He that keeps my Commandments is he that loves me, and he that loves me ſhall be loved of my Father, and I will love him, and manifeſt my ſelf unto him,</hi> John 14.21.</p>
+            </div>
+            <div type="section">
+               <head>Touching Preaching the Goſpel.</head>
+               <p>They that preach to Infidel-Sinners, muſt exhort them to come to Chriſt in the Baptiſmal Engagement, from the conſideration of the Na<g ref="char:EOLhyphen"/>tional Atonement that he hath made, and his great love to Mankind.</p>
+               <p>They that preach to baptiſed Profeſſors, muſt exhort them to look on themſelves, not as Infidel-Sinners, but as dead to Sin, and alive to God by Profeſſion and Engagement.</p>
+               <p>They that preach to baptiſed Prodigals muſt exhort them to return to God from the conſideration of the danger of Apoſtacy.</p>
+               <p>
+                  <pb facs="tcp:152348:13"/>They that preach to baptiſed perſons walking orderly in the Faith, ought to exhort them to walk comfortably, rejoycing in the Lord, un<g ref="char:EOLhyphen"/>der the aſſurance of Forgiveneſs of Sins, and hope of Eternal Life.</p>
+            </div>
+            <div type="section">
+               <head>Touching the Lord's Supper.</head>
+               <p>The Lord's Supper is a Feſtival-remembrance of Chriſt's Sufferings and entring into Glory: When our bleſſed Saviour ſaid, <hi>Do this in re<g ref="char:EOLhyphen"/>membrance of me,</hi> it was a word of inſtitution, and the word <hi>This</hi> rela<g ref="char:EOLhyphen"/>ted to the taking Bread, and a Cup of Wine, bleſſing, diſtributing, eating and drinking: And when he ſaid, <hi>This is my Body, which is bro<g ref="char:EOLhyphen"/>ken for you,</hi> it was a word of explication of the ſignification of Bread, and the word <hi>This</hi> referred or pointed unto his Body then preſent (as it did in theſe words, <hi>Deſtroy this Temple, and upon this Rock</hi>) and there is an emphaſis in the Article joyn'd to the word <hi>Body,</hi> which ſignifies, <hi>This is that Body of mine,</hi> and ſo relates to the Body the Father gave him to ſuffer in, <hi>Heb.</hi> 10.5. and the Body which he promiſed to give for the Life of the World, and to be the Bread of Life, <hi>John</hi> 6.51. And when our bleſſed Saviour ſaid of the Cup, <hi>This is the New Teſtament in my Blood, which is ſhed for the remiſſion of Sins.</hi> He doth ſufficiently clear his Sufferings from a reputation of making ſatisfaction as a guilty Sinner for <hi>Adam</hi>'s breach of the Old Covenant.</p>
+            </div>
+            <div type="section">
+               <head>Touching the explication of ſome Texts of Scripture, according to <hi>Paul</hi>'s Rule of interpretation, <hi>viz.</hi> Comparing ſpiritual things with ſpiritual, <hi>1 Cor. 2.13.</hi>
+               </head>
+               <p n="1">I. <hi>Gen.</hi> 2.17. <hi>In the day that thou eateſt thereof thou ſhalt dye the death.</hi> The word <hi>Thou</hi> in this place comprehends both Sexes, and the Poſterity of both Sexes, in caſe of puniſhment, which the Apoſtle af<g ref="char:EOLhyphen"/>firms in <hi>Rom.</hi> 5.12. but to conceive that it comprehends a Surety to pay <hi>Adam</hi>'s Debt if he ſinned, ſeems not agreeable to the Scripture, which ſaith, <hi>The Soul that ſins ſhall dye:</hi> For as Man cannot ſin by a Deputy, ſo it ſeems he cannot be puniſhed by a Deputy. Our bleſſed Saviour is called <hi>a Surety, Heb.</hi> 7.22. but it is of the better Covenant, for confirmation of it, being of free and abſolute Grace.</p>
+               <p n="2">II. <hi>Rom.</hi> 3.25. <hi>That he might be juſt.</hi> That theſe words are not meant of the Vindictive Juſtice of God in puniſhing Chriſt as a guilty Sinner in our ſtead, but of the Juſtice of his Promiſe of Forgiveneſs in the New Covenant; appears by the ſcope of <hi>ver.</hi> 24, 25, 26. being to ſet forth the abſolute freedom of the Grace of God: and comparing
+<pb n="23" facs="tcp:152348:13"/>
+them with 1 <hi>John</hi> 1.9. God is juſt in forgiving Sin to thoſe that con<g ref="char:EOLhyphen"/>feſs Sin.</p>
+               <p n="3">III. <hi>Iſa.</hi> 53.6. <hi>And the Lord hath laid upon him the Iniquities of us all.</hi> That theſe words do not ſignifie the Wrath or Vindictive Juſtice of God, tranſlating the Guilt of all men or any man on Chriſt, to ſuf<g ref="char:EOLhyphen"/>fer as a guilty Sinner in their ſtead, but ſets forth the <hi>Wiſdom of God</hi> in ordering Chriſt to conflict with the injurious dealings of all ſorts of men: and the admirable Faith and Patience of Chriſt, in conquering without any guilt of Sin, ſeems manifeſt from the precedent and con<g ref="char:EOLhyphen"/>ſequent expreſſions, comparing them with the Hiſtory of Chriſt's Suf<g ref="char:EOLhyphen"/>ferings, and our Saviour's own explication in the Hiſtory, <hi>Now is your hour and the power of darkneſs.</hi>
+               </p>
+               <p n="4">IV. <hi>Pſal.</hi> 22.1. <hi>My God, my God, why haſt thou forſaken me?</hi> That theſe words do not declare the Wrath of God againſt Chriſt as a guilty Sinner in our ſtead, but are a Prayer of Faith of a righteous man, con<g ref="char:EOLhyphen"/>flicting with a natural fear, in a ſenſe of great tryal, appears in that,</p>
+               <p n="1">1. Theſe words are the words of <hi>David,</hi> who uſed ſo to expoſtulate with God, and with his frail Nature in the power of Faith in the time of his Tryals, <hi>Pſal.</hi> 13. &amp; 42.</p>
+               <p n="2">2. The reſt of the 22d <hi>Pſalm</hi> is an Expoſition of the firſt Verſe, and deſcribes the long and fierce Conflicts and glorious Conqueſts, and that was not a conquering of God, but of the Devil and his Inſtru<g ref="char:EOLhyphen"/>ments.</p>
+               <p n="3">3. God promiſes not to forſake, <hi>Iſa.</hi> 42.6. <hi>I the Lord have called thee in righteouſneſs, and will hold thine hand, and I will keep thee.</hi> And our Saviour believed this Promiſe, <hi>John</hi> 8.29. <hi>He that ſent me is with me, the Father hath not left me alone.</hi> And,</p>
+               <p n="4">4. Our Saviour himſelf expounds theſe words, when he ſaith, <hi>The Spirit is ready, but the Fleſh is weak;</hi> and the Apoſtle, when he ſaith, That <hi>Chriſt in the days of his fleſh made ſtrong Cries unto God, and was heard, in that he feared, Heb.</hi> 5.7.</p>
+               <p n="5">V. <hi>Gal.</hi> 3.13. 2 <hi>Cor.</hi> 5.21. <hi>He redeemed us from the Curſe of the Law, being made a Curſe for us, that the Bleſſing of</hi> Abraham <hi>might come upon the</hi> Gentiles, <hi>that we might receive the promiſe of the Spirit through Faith. He was made Sin for us, who knew no Sin, that we might be made the Righteouſneſs of God in or by him.</hi>
+               </p>
+               <p>Theſe two places are of parallel ſignification, and are frequently miſinterpreted and miſapplied, being taken to ſignifie the Juſtice of God in his Proceedings towards Chriſt, as a guilty Sinner in our ſtead, and
+<pb n="24" facs="tcp:152348:14"/>
+ſubject to the Curſe of the Moral Law, which Curſe is mentioned <hi>Gal.</hi> 3.10. when the ſcope of both places is apparently to ſet forth the Wiſdom and Grace of God in ordering and over-ruling the unjuſt Sen<g ref="char:EOLhyphen"/>tence of Men, according to the Judicial Law, in making Chriſt a noto<g ref="char:EOLhyphen"/>rious curſed Sinner, to the manifeſting of his Grace and Wiſdom, in bringing the Bleſſing of the Spirit of Regeneration upon us <hi>Gentiles:</hi> for Chriſt in our Nature avoided the moral Curſe in fulfilling the Law, and God the Father did not agree with the Rulers of the <hi>Jews</hi> to judge Chriſt a Blaſphemer, a Falſe Prophet, and an Enemy to <hi>Caeſar;</hi> they judged him a Sinner, God judged him his beloved Son, and his righ<g ref="char:EOLhyphen"/>teous Servant; they made him a Curſe, but God made him a Bleſſing.</p>
+               <p n="6">VI. 1 <hi>Cor.</hi> 5.21. <hi>That we might be made the Righteouſneſs of God in or by him.</hi> That theſe words are a deſcription of the Work of Rege<g ref="char:EOLhyphen"/>neration, and the Work of Faith in us by Chriſt, the very repeating of the words do ſufficiently ſhew: but it's evident by theſe circumſtances <hi>the New Creature, v.</hi> 17. and to be <hi>reconciled to God, v.</hi> 20. and to be made the Righteouſneſs of God by Chriſt in this Verſe, are parallel Phraſes. <hi>God</hi> and <hi>Chriſt</hi> in this ſentence are two diſtinct notions, <hi>God</hi> ſignifies the Father, and <hi>Him</hi> ſignifies the Mediator, and ſo the Righte<g ref="char:EOLhyphen"/>ouſneſs of God cannot ſignifie the Righteouſneſs of Chriſt: And that the word <hi>made</hi> ſignifies created, and not imputed, and the word <hi>in him</hi> ſignifies by Chriſt, appears by <hi>Paul</hi>'s poſitive Expreſſions <hi>Epheſ</hi> 2.10. <hi>We are his workmanſhip, created by Chriſt.</hi> And that the word <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs of God</hi> ſignifies the Righteouſneſs whereof God is the Author, in oppoſition to our own Righteouſneſs, whereof we are the Authors, ap<g ref="char:EOLhyphen"/>pears by the aforeſaid place <hi>Eph.</hi> 2.10. <hi>We are his workmanſhip,</hi> and 2 <hi>Cor.</hi> 5.18. <hi>And all things are of God.</hi> And here in this 21. Verſe are no comparative terms by <hi>as</hi> and <hi>ſo,</hi> but poſitive; (1.) The End that we might be made the Righteouſneſs of God; (2.) The Means, by Chriſt or his Miniſtry; (3.) The Motive to be perſwaded by Chriſt, from the conſideration of his honourable Sufferings.</p>
+               <p n="7">VII. <hi>Levit.</hi> 16. <hi>The Law of the ſcape-goat.</hi> This is uſually alledged for God's laying our Sin upon Chriſt, as a guilty Sinner; how fitly, will appear by what follows: The High-Prieſt preſents two Goats at the Door of the Tabernacle before the Lord, then he caſts Lots on them, and one is the Lord's Lot, and the other is the Peoples; the Lord's Lot is ſlain, and the Blood ſprinkled before the Mercy-ſeat; the Peoples Lot is preſented alive before the Lord, and the Prieſt, in the name of the People lays both his Hands on the Head of the alive Goat, confeſſing their Sins, and then ſends away the alive Goat, who bears or carries away their <hi>Sins</hi> into a Land of Forgetfulneſs.</p>
+               <p>
+                  <pb n="25" facs="tcp:152348:14"/>This is a moſt lively and full repreſentation of Chriſt's Redemption, both in the meritorious and miniſterial work, and of the tranſactings of Chriſt with the Father on one hand, and with us on the other, and of the reconciliation of our Nature, and the reconciliation of our Per<g ref="char:EOLhyphen"/>ſons.</p>
+               <p>And this is plainly interpreted by St. <hi>Paul,</hi> who ſaith, <hi>We muſt be<g ref="char:EOLhyphen"/>lieve in him who raiſed Chriſt from the dead,</hi> and then our Faith will be accounted to us for Righteouſneſs, becauſe Chriſt was delivered for our Sins, (the Lord's Lot) and being declared to be the Son of God by his Reſurrection, and being preſented alive before the Lord, he roſe again for our Juſtification, or to make us righteous by believing in him.</p>
+               <p>Hence we may obſerve
+<list>
+                     <item>The order of Divine Grace,</item>
+                     <item>The deſcription of Divine Grace.</item>
+                  </list>
+               </p>
+               <p n="1">1. The <hi>Order;</hi> and firſt, the reconciliation of our Nature, <hi>as the Lord's Lot,</hi> then the reconciliation of our Perſons, <hi>as our Lot.</hi>
+               </p>
+               <p n="2">2. The <hi>Deſcription</hi> of Faith and Juſtification.</p>
+               <p n="1">1. Of <hi>Faith:</hi> Faith is the laying both Hands on the Head of Chriſt, as riſen from the dead, with Confeſſion of Sin, <hi>Rom.</hi> 10.10. the Hands of Belief of the Heart, and Confeſſion of the Mouth.</p>
+               <p n="2">2. Of <hi>Juſtification of our Perſons:</hi> It's a ſending our Sin into a Land of Forgetfulneſs, and receiving of us among the number of the Righ<g ref="char:EOLhyphen"/>teous, when we lay both Hands on the Head of Chriſt riſen from the dead, confeſſing our Sins, and embrace him as our Head.</p>
+               <p n="8">VIII. <hi>Rom</hi> 4.5. <hi>To him that worketh not, but believeth on him that juſtifieth the ungodly, his faith is imputed to him for righteouſneſs.</hi>
+               </p>
+               <p>This place is abuſed (1.) by applying the word <hi>worketh not</hi> to the Work of Faith, as well as to a legal Work, which is not a Work of Grace. (2.) By taking the word <hi>juſtifieth</hi> for juſtifying in Judgment. (3.) By making thoſe words, <hi>God juſtifieth the <g ref="char:V">Ʋ</g>ngodly,</hi> a ſingle ſen<g ref="char:EOLhyphen"/>tence, not joyning what is before and what is after to it. The true ſence is gather'd by comparing this Verſe with the four precedent Ver<g ref="char:EOLhyphen"/>ſes, and the 23, 24, 25. following; and then it will appear, that this Verſe belongs to the explication of <hi>Abraham</hi>'s Faith: and the Apoſtle applies it to us in <hi>v.</hi> 23, 24, 25. ſo that to believe on him that juſti<g ref="char:EOLhyphen"/>fieth the Ungodly, is <hi>to us</hi> the ſame thing as to believe in God, who raiſed Chriſt from the dead, who roſe again for our juſtification, <hi>(i. e.)</hi> to make us righteous, (as it's phraſed <hi>Rom.</hi> 5.19.) which is the ſame thing as of <hi>ungodly</hi> to be made <hi>godly.</hi>
+               </p>
+               <p n="9">
+                  <pb n="18" facs="tcp:152348:15"/>IX. <hi>James</hi> 2.24. <hi>A man is juſtified by works, and not by faith only.</hi> This place receives much light by comparing it with <hi>Paul</hi>'s Pattern of ſound words in 2 <hi>Theſſ.</hi> 1.11. <hi>We pray that our God would fulfill all the good pleaſure of his goodneſs, and the work of faith, with power.</hi> Hence are theſe remarkable Obſervations, as,</p>
+               <p n="1">1. That Faith is a Work wrought in us, according to the good plea<g ref="char:EOLhyphen"/>ſure of his Goodneſs, by the miniſtry of the Goſpel.</p>
+               <p n="2">2. That Faith is a gradual Work, begun and fulfilled; begun in form, fulfilled in power; begun in the baptiſmal work, fulfilled in the ſealing work, <hi>Eph.</hi> 1.13</p>
+               <p n="3">3. That a Chriſtian doth not walk worthy of his baptiſmal calling, unleſs he endeavour after the Power, which is Faith working by love to GOD and to Man, in Deed and in Truth.</p>
+               <p n="4">4. That the Power is attainable by conſtant Prayer to our God.</p>
+               <p>Now, it's beyond all diſpute, that St. <hi>James</hi> agrees with St. <hi>Paul</hi> in the Faith, as the Apoſtle of Chriſt; and therefore when he ſays, <hi>Not by Faith only,</hi> he means, not by the form only, or the notion and pro<g ref="char:EOLhyphen"/>feſſion of Faith only: and when he ſaith <hi>by Works,</hi> he doth not mean Works of the Law, which <hi>Paul</hi> excludes, but Works of the Power of Faith, as the Inſtances in <hi>Abraham</hi> and <hi>Rahab</hi> ſhew, which Works <hi>Paul</hi> includes: And when he ſays, <hi>a Man is juſtified by Works,</hi> he means as <hi>Paul</hi> doth; a Man is not only made juſt by Faith, by the Miniſtry of Faith, but he is alſo accounted a juſt man in the ſight of God, on tryal of his Faith, when the power of it appears in the truth of the Work.</p>
+            </div>
+            <div type="section">
+               <head>Touching the diſtinction of the Righteouſneſs of our Perſons into inherent and imputed.</head>
+               <p>This diſtinction ſeems not according to Scripture, for that which was imputed to <hi>Abraham</hi> for acceptable Righteouſneſs in the ſight of God, was inherent in him; and (it's ſaid) Faith was imputed unto <hi>Abraham</hi> for Righteouſneſs, and not Righteouſneſs imputed to <hi>Abra<g ref="char:EOLhyphen"/>ham</hi>'s Faith.</p>
+               <p>This diſtinction may ſeem to be rectified thus:</p>
+               <p>Inherent Righteouſneſs is ſpoken of in Scripture in reference to GOD and to Man.</p>
+               <p n="1">
+                  <pb n="19" facs="tcp:152348:15"/>1. In reference to God, his Righteouſneſs is his Mercy and his Truth; his Mercy in making Promiſes, his Truth in performing Pro<g ref="char:EOLhyphen"/>miſes, which is his rewarding Juſtice, and inflicting Puniſhment for contempt of Mercy, which is his revenging Juſtice, <hi>Pſal.</hi> 98.2, 3. <hi>Pſal.</hi> 103.17.</p>
+               <p n="2">2. In reference to Man, inherent Righteouſneſs is imputed, or not im<g ref="char:EOLhyphen"/>puted.</p>
+               <p n="1">1. Inherent Righteouſneſs imputed or accounted by God for accepta<g ref="char:EOLhyphen"/>ble Righteouſneſs, is the Righteouſneſs of Faith, <hi>Rom.</hi> 4.11, 13.</p>
+               <p n="2">2. Inherent Righteouſneſs not imputed of God for acceptable Righ<g ref="char:EOLhyphen"/>teouſneſs in his ſight,
+<list>
+                     <item>(1.) Is <hi>Pharaſaical</hi> Righteouſneſs, <hi>Mat.</hi> 5.20. Or,</item>
+                     <item>(2.) Philoſophical Righteouſneſs, <hi>Galat.</hi> 5.6. <hi>Tit.</hi> 3.5. <hi>Epheſ.</hi> 2.8, 9.</item>
+                  </list>
+               </p>
+               <p>Which is alſo called <hi>our Righteouſneſs, Iſa.</hi> 64.6. <hi>our own Righte<g ref="char:EOLhyphen"/>ouſneſs of the Law, Phil.</hi> 3.9. the <hi>birth of the will of man, John</hi> 1.13. the <hi>Fleſh, Rom.</hi> 4.1. And the Righteouſneſs of Faith is alſo called the <hi>Righteouſneſs of God by Faith, Phil.</hi> 3.9. the <hi>Righteouſ<g ref="char:EOLhyphen"/>neſs of God by Chriſt</hi> (miniſterially) 2 <hi>Cor.</hi> 5.21. and <hi>Righteouſneſs regnant, Rom.</hi> 5.21. and the <hi>New Creature, Gal.</hi> 6.15. which conſiſts in a new Heart, with Forgiveneſs, <hi>Jer.</hi> 31.31.</p>
+            </div>
+            <div type="section">
+               <head>Touching the meaſure of Knowledge in a weak Chriſtian.</head>
+               <p>If a Chriſtian ſincerely believes that God forgives his Sins for Chriſt's ſake he humbly ſeeking for Mercy, and do alſo believe the love of Chriſt in giving himſelf a Sacrifice and Offering of ſweet-ſmelling ſavour unto God, and be willing to follow God and Chriſt as a Child, according to the meaſure of Light he hath received, or may receive, he may walk comfortably and joyfully in the aſſured hope of Eternal Life, although he know very little of the method of Divine Grace, or, it may be, miſ<g ref="char:EOLhyphen"/>underſtand much. This is gathered from the compendious expreſſions in <hi>Eph.</hi> 4.32. and <hi>Eph.</hi> 5.1, 2. <hi>Be ye courteous and tender hearted, forgi<g ref="char:EOLhyphen"/>ving one another, as God for Chriſt's ſake forgave you: Be ye followers of God, as dear Children, and walk in love, as Chriſt hath loved us, and given himſelf for us, an offering and ſacrifice of a ſweet-ſmelling ſavour unto God.</hi> And we know but in part, and prophecy but in part.</p>
+               <pb n="18" facs="tcp:152348:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="19" facs="tcp:152348:16"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+            <div type="section">
+               <pb n="28" facs="tcp:152348:17"/>
+               <head>Touching the Righteouſneſs of Chriſt.</head>
+               <p>The Righteouſneſs of Chriſt the Mediator is an incomprehenſible Myſtery; but according to our manner of conceiving, the Righteouſ<g ref="char:EOLhyphen"/>neſs of Chriſt may be ſaid to be inherent, imputed and communica<g ref="char:EOLhyphen"/>ted, or imparted or applyed.</p>
+               <p n="1">1. Inherent is the ſame with the Father, in Mercy and Truth, <hi>I and the Father are one.</hi>
+               </p>
+               <p n="2">2. <hi>Imputed</hi> is the Righteouſneſs of Chriſt's Perſon imputed to the Nature of Man in his Perſon, making his Sufferings meritorious, 1 <hi>Cor.</hi> 11.24. <hi>This is my body which is broken for you.</hi> Here the Son of God owns the Body or Human Nature, and the Sufferings in Man's Nature, to be <hi>his, Acts</hi> 20.28. <hi>John</hi> 16.14. <hi>Gal.</hi> 2.20.</p>
+               <p n="3">3. <hi>Communicated, Iſa.</hi> 45.24. <hi>They ſhall ſay, in the Lord have I righ<g ref="char:EOLhyphen"/>teouſneſs and ſtrength. Iſa.</hi> 54.17. <hi>Their Righteouſneſs is of me, ſaith the Lord. Jer.</hi> 23.6. <hi>They ſhall call him the Lord our Righteouſneſs. Pſal.</hi> 96.12. <hi>In righteouſneſs ſhall he judge the world, and his people in truth.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>Touching admitting to the Lord's Supper.</head>
+               <p>The requiring admittance to the Lord's Supper, upon declaring Ex<g ref="char:EOLhyphen"/>periences, is dangerous, and unknown to the firſt Churches.</p>
+               <p>The ſafe way of admittance is upon owning the Baptiſmal Faith and Engagement, not denying it by Works, <hi>Acts</hi> 2.41, 42.</p>
+            </div>
+            <div type="section">
+               <head>Touching Election.</head>
+               <p>There is in Scripture a threefold Election, or three degrees of it.</p>
+               <p n="1">1. <hi>Election in the Divine Purpoſe, Eph.</hi> 1.11.</p>
+               <p n="2">2. <hi>Election in the Baptiſmal Calling,</hi> 2 <hi>Pet.</hi> 1.10. <hi>Col.</hi> 3.12. as there was Election in the Circumciſion Calling, <hi>Deut.</hi> 7.7. This is called <hi>the Spiritual Beginning, Gal.</hi> 3.3. the <hi>Beginning of the Good Work, Phil.</hi> 1.6. and the <hi>Doctrine of the Beginnings of Chriſt, Heb.</hi> 6.1.</p>
+               <p n="3">3. <hi>Election made ſure,</hi> confirmed, ſealed, witneſſed, earneſted by the peculiar Spirit of Adoption, 2 <hi>Pet.</hi> 1.10, 11. <hi>Mat.</hi> 22.14. 1 <hi>Pet.</hi> 5.10. <hi>Revel.</hi> 2.17.</p>
+            </div>
+         </div>
+         <div type="conclusion">
+            <pb n="29" facs="tcp:152348:17"/>
+            <head>THE CONCLUSION TO THE READER.</head>
+            <p>
+               <hi>THIS kind of Writing may be excuſed from the Words of our Apoſtle, in</hi> Phil. 1.10. That you may diſcern things that differ; <hi>and in</hi> 2 Tim. 2.16. Studying to divide aright the word of truth. <hi>For the Church is much diſ-edified by falſe and impertinent Diſtinctions.</hi>
+            </p>
+            <p>
+               <hi>And it is excuſable upon this Subject from what Dr.</hi> Owen <hi>ſays in his Book entituled,</hi> The Doctrine of Juſtification by Faith through the imputed Righteouſneſs of Chriſt: <hi>In Page</hi> 38. <hi>of that Book he ſaith,</hi> This is the ſubſtance of what is pleaded for, That Men ſhould renounce all Confidence in themſelves, and every thing that may give countenance thereto, betaking themſelves to the Grace of God by Chriſt alone, for Righteouſneſs and Salvation.</p>
+            <p>
+               <hi>There is nothing ſaid here contrary to this Saying of his, and what is ſaid different to his Sentiments, is excuſed by what he ſays in the laſt words of his Preface to the Reader; his words are theſe:</hi> Whereas <hi>(ſaith he)</hi> the principal deſign of this Diſcourſe is to ſtate the Doctrine of Juſtifi<g ref="char:EOLhyphen"/>cation,
+<pb n="22" facs="tcp:152348:18"/>
+from the Scripture, and to confirm it by Teſti<g ref="char:EOLhyphen"/>monies thereof, I ſhall not eſteem it ſpoken againſt, unleſs our Expoſition of Scripture Teſtimonies, and the applica<g ref="char:EOLhyphen"/>tion of them to the preſent Argument be diſproved by Juſt Rules of Interpretation, and another ſence of them be evinced. <hi>(Thus he.)</hi>
+            </p>
+            <p>
+               <hi>Nothing is ſuppoſed to be ſaid here that will be offen<g ref="char:EOLhyphen"/>ſive to any that are not too much addicted to a Party, which Humour is under a ſevere Reprimand by our Apo<g ref="char:EOLhyphen"/>ſtle,</hi> 1 Cor. 4.8. Now ye are full, now ye are rich, ye have reigned as Kings without us, and I would to God ye did reign, that we might reign with you.</p>
+            <trailer>FINIS.</trailer>
+            <pb n="22" facs="tcp:152348:19"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
